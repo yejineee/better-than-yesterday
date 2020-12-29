@@ -8,7 +8,7 @@
 **2020/12 ~ 2021/01**
 | 월 | 화 | 수 | 목 | 금 | 토 | 일 |
 | :-----: |:------:|:------:|:------:|:------:|:------:|:------:|
-| [28](https://github.com/yejineee/better-than-yesterday/blob/master/2021-January/2020-01-week1.md#2020%EB%85%84-12%EC%9B%94-28%EC%9D%BC-%EC%9B%94%EC%9A%94%EC%9D%BC) | 29 | 30 | 31 | 1 | 2 | 3 |
+| [28](https://github.com/yejineee/better-than-yesterday/blob/master/2021-January/2020-01-week1.md#2020%EB%85%84-12%EC%9B%94-28%EC%9D%BC-%EC%9B%94%EC%9A%94%EC%9D%BC) | [29](https://github.com/yejineee/better-than-yesterday/blob/master/2021-January/2020-01-week1.md#-2020%EB%85%84-12%EC%9B%94-29%EC%9D%BC-%ED%99%94%EC%9A%94%EC%9D%BC) | 30 | 31 | 1 | 2 | 3 |
 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
